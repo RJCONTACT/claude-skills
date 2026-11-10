@@ -2,7 +2,7 @@
 
 A Claude skill that moves a legacy Figma design system onto a base kit such as Untitled UI **without changing what users see**, adds a second product look as a variable mode, and proves the result by rebuilding real screens next to their sources.
 
-**Get it:** the skill is sold as a bundle with the Figma agent version. Details and the buy link are on my [Tools page](https://rishik-jha.rishikrkjha.workers.dev/tools). How it was built: [case study](https://rishik-jha.rishikrkjha.workers.dev/case-study/design-system-migration).
+**Get it:** the skill is sold as a bundle with the Figma agent version. **[Buy the bundle on Gumroad — $19](https://rishikra4.gumroad.com/l/ds-migration)** · more on my [Tools page](https://rishik-jha.rishikrkjha.workers.dev/tools). How it was built: [case study](https://rishik-jha.rishikrkjha.workers.dev/case-study/design-system-migration).
 
 ## What it does
 
